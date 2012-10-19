@@ -1,0 +1,5 @@
+C:\Users\Alla\Documents\GitHub\MyTestApp\MyTestApp\bin\MyTestApp.dll
+C:\Users\Alla\Documents\GitHub\MyTestApp\MyTestApp\bin\MyTestApp.pdb
+C:\Users\Alla\Documents\GitHub\MyTestApp\MyTestApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alla\Documents\GitHub\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.dll
+C:\Users\Alla\Documents\GitHub\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.pdb
