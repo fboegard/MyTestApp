@@ -29,7 +29,8 @@ namespace MyTestApp
 
 		protected void Application_Start(Object sender, EventArgs e)
 		{
-
+              Server.Transfer("Default.html");
+             //base.OnLoad(e);
 		}
 
 		protected void Session_Start(Object sender, EventArgs e)
